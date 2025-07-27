@@ -864,6 +864,10 @@ header .logo {
     text-align: center;
     font-size: 0.85em;
   }
+
+    .carousel .list .item .introduce .seeMore {
+    display: none;
+  }
 }
 
 @media (max-width: 440px) {
