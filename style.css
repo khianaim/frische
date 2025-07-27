@@ -315,6 +315,69 @@ header .logo {
   width: 70%; 
 }
 
+@media (min-width: 768px) and (max-width: 884px) {
+  #item-7 img {
+  top: -5%; 
+  width: 85%;
+  left: 55%;
+  }
+
+   #item-7 .introduce .topic {
+    margin-top: 80px; 
+    position: relative; 
+  }
+
+  #item-8 img {
+  top: 0%; 
+  width: 75%;
+  left: 50%;
+  }
+
+
+  #item-9 img {
+  top: 10%; 
+  width: 75%;
+  left: 55%;
+}
+
+  #item-9 .introduce .topic {
+    margin-top: 100px; 
+    position: relative; 
+  }
+
+  #item-10 img {
+    top: 0%;
+    width: 55%;
+  }
+
+  #item-11 img {
+  top: 5%; 
+  width: 75%;
+  left: 55%;
+  }
+
+  #item-11 .introduce .topic {
+    margin-top: 80px; 
+    position: relative; 
+  }
+
+  #item-8 .introduce .topic {
+    margin-top: 40px; 
+    position: relative; 
+  }
+
+  #item-10 .introduce .topic {
+    margin-top: 95px; 
+    position: relative; 
+  }
+
+   #item-12 .introduce .topic {
+    margin-top: 105px; 
+    font-size: 2.5rem;
+    position: relative; 
+  }
+   }
+
 @media (max-width: 440px) {
    #item-7 img {
   top: 15%; 
